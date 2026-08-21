@@ -31453,7 +31453,7 @@ function LL(t, e = {}) {
   );
 }
 const sr = "0xComingSoon",
-  Bf = "https://x.com/testicleEth",
+  Bf = "https://x.com/qqcoinonbnb",
   SE = "https://x.com/tisgambino",
   cl = "./logo.jpg",
   il = `https://pancakeswap.finance/swap?chain=bsc&chainOut=bsc&inputCurrency=BNB&outputCurrency=${sr}&exactAmount=&exactField=INPUT`,
