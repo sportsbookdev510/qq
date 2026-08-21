@@ -32350,11 +32350,6 @@ const sr = "0xComingSoon",
                         "text-4xl text-yellow-400 leading-none uppercase",
                       children: "QQ",
                     }),
-                    I.jsx("p", {
-                      className:
-                        "text-lg font-bold opacity-60 uppercase tracking-tighter",
-                      children: "by $snowball dev",
-                    }),
                   ],
                 }),
               ],
